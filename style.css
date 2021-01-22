@@ -117,7 +117,15 @@ h1 {
     padding: 20px 30px;
     width: 100%;
 }
-
+.bar{
+    width:70%;
+}
+.pro{
+    width:50;
+}
+.con{
+    width:40%;
+}
 
 
 
